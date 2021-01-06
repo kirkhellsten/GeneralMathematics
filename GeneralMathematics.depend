@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609972003 source:c:\users\kirk\codeblock projects\generalmathematics\generalmathematics\main.cpp
+	<iostream>
+	"GeneralMathematics.h"
+
+1609972088 c:\users\kirk\codeblock projects\generalmathematics\generalmathematics\generalmathematics.h
+
