@@ -9,5 +9,6 @@ Project Name
 The name has been changed to PermutationsAndCombinations. The reason is factorials are commonly used in Permutations and Combinations, a branch of mathematics studied under probability. ipracticemath.com [0] is consider a good source of what branch of mathematics factorial lies in. Originally put under General Mathematics since the formal conception was it was broadly used and thus was put under the project General Mathematics.    
 
 Sources
+
 [0] https://www.ipracticemath.com/learn/numbersense/factorial#:~:text=Factorials%20are%20most%20commonly%20used,usually%20studied%20under%20%22Probability%22.
 
