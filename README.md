@@ -6,7 +6,7 @@ Two concepts explored to compute the factorial of some positive number N is iter
 
 Project Name
 
-The name has been changed to Permutations And Combinations. The reason is factorials are commonly used in Permutations and Combinations, a branch of mathematics studied under probability. ipracticemath.com [1] is consider a good source of what branch of mathematics factorial lies in. Originally put under General Mathematics since the former conception was it was not under any branch of mathematics and needed to be put under some heading. Factorials is said to be primarily used in the branch Permutations and Combinations, however it is still used in other branches of mathematics. This very little use in other branches, as well as knowing the  primary branch, were the factors in the decision to change the project name.
+The name has been changed to Permutations And Combinations. The reason is factorials are commonly used in Permutations and Combinations, a branch of mathematics studied under probability. ipracticemath.com is consider a good source of what branch of mathematics factorial lies in [1]. Originally put under General Mathematics since the former conception was it was not under any branch of mathematics and needed to be put under some heading. Factorials is said to be primarily used in the branch Permutations and Combinations, however it is still used in other branches of mathematics. This very little use in other branches, as well as knowing the  primary branch, were the factors in the decision to change the project name.
 
 Sources
 
