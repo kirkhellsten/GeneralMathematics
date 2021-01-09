@@ -10,6 +10,9 @@ The name has been changed to Permutations And Combinations. The reason is factor
 
 Sources
 
-[0] https://www.ipracticemath.com/learn/numbersense/factorial#:~:text=Factorials%20are%20most%20commonly%20used,usually%20studied%20under%20%22Probability%22.
-[1] http://www.codeblocks.org/
+[0] 
+https://www.ipracticemath.com/learn/numbersense/factorial#:~:text=Factorials%20are%20most%20commonly%20used,usually%20studied%20under%20%22Probability%22.
+
+[1] 
+http://www.codeblocks.org/
 
