@@ -1,4 +1,4 @@
-# Permutations And Combinations
+# Permutations and Combinations
 
 Computing factorial
 
